@@ -1,2 +1,4 @@
-# WorldTour
-A world where you can travel troughout dimensions, a lot of references and with a litle guy following you all the way
+# Task Manager
+
+A WindowsForm Application where you can manage your tasks.
+
